@@ -1,0 +1,11 @@
+CyberSafe Edu
+Explainable Phishing-Awareness and Message-Analysis Tool
+
+Files included:
+- app.py: Streamlit application
+- AryanDas_CyberSafeEdu.ipynb: requested notebook code deliverable
+- requirements.txt: Python dependency list
+- AryanDas_CyberSafeEdu_ProjectReport.docx: project report
+- README.md: overview, setup, usage, limitations, and dataset statement
+
+Important: this is an educational rule-based prototype. It does not visit URLs or query external services.
